@@ -24,6 +24,3 @@ The application uses the following logic based on electrical standards:
 2. Place the folder into your server's root directory (e.g., `C:/xampp/htdocs/`).
 3. Start your Apache server.
 4. Open your browser and navigate to `http://localhost/folder-name/index.php`.
-
-## 📸 Preview
-![Screenshot of the Calculator](https://via.placeholder.com/800x400?text=Electricity+Calculator+Preview)
